@@ -19,7 +19,7 @@ Check out some of my favorite projects below, and feel free to contribute or pro
 
 ## How to Reach Me
 - **Email:** rizkyfathur326@gmail.com
-- **LinkedIn:** [linkedin.com/in/fathurwithyou](linkedin.com/in/fathurwithyou)
+- **LinkedIn:** [linkedin.com/in/fathurwithyou](https://www.linkedin.com/in/fathurwithyou/)
 - **Twitter:** [x.com/fathurwithyou](https://x.com/fathurwithyou)
 
 ## Two-cent Notes
