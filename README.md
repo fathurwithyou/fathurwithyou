@@ -15,9 +15,7 @@ I'm currently diving deeper into Machine Learning System.
 ## Projects and Contributions
 Check out some of my favorite projects below, and feel free to contribute or provide feedback!
 
-- 🔍 [Project 1: Brief description]
-- 📊 [Project 2: Brief description]
-- 💡 [Project 3: Brief description]
+- Fish Appetite Detection: This is my first "big" project as a college student.
 
 ## How to Reach Me
 - **Email:** rizkyfathur326@gmail.com
