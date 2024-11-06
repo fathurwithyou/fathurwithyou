@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Fathur
 
-Welcome to my GitHub profile! I'm a Data Scientist with a passion for DS/A and Machine Learning. I enjoy building efficient and impactful solutions that make a difference.
+Welcome to my GitHub profile! I'm a Data Scientist with a passion for DS/A and Machine Learning. 
 
 ---
 
@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm a Data Scientist with a passion for DS/A and M
 - **Technologies:** Machine Learning, Data Analysis, Software Engineering
 - **Frameworks & Tools:** TensorFlow, Flask, Tableau, PyTorch
 
-## Currently Learning
-I'm currently diving deeper into Machine Learning System.
+## Currently Learning, Developing, or Managing
+I'm currently diving deeper into Machine Learning System. I manage the Competition and Community in Himpunan Mahasiswa Informatika (HMIF) ITB also setting the problem for Datavidia in Arkavidia 9.0.
 
 ## Projects and Contributions
 Check out some of my favorite projects below, and feel free to contribute or provide feedback!
@@ -20,10 +20,10 @@ Check out some of my favorite projects below, and feel free to contribute or pro
 ## How to Reach Me
 - **Email:** rizkyfathur326@gmail.com
 - **LinkedIn:** [linkedin.com/in/fathurwithyou](linkedin.com/in/fathurwithyou)
-- **Twitter:** [x.com/fathurwithyou](x.com/fathurwithyou)
+- **Twitter:** [x.com/fathurwithyou](https://x.com/fathurwithyou)
 
 ## Two-cent Notes
- - **Medium:** [medium.com/@fathurwithyou](medium.com/@fathurwithyou)
+ - **Medium:** [medium.com/@fathurwithyou](https://www.linkedin.com/in/fathurwithyou/)
  - **Kaggle:** [kaggle.com/fathurwithyou](https://www.kaggle.com/fathurwithyou)
 
 ---
