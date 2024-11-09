@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a Data Scientist with a passion for DS/A and M
 
 ## Skills
 - **Languages:** Python, Java, SQL, C/C++.
-- **Technologies:** Machine Learning, Data Analysis, Software Engineering.
-- **Frameworks & Tools:** TensorFlow, Flask, Tableau, PyTorch.
-- **Web Stacks:** Express, Next, TS.
+- **Interests:** Machine Learning, DS/A, Software Engineering.
+- **DS/A:** TensorFlow, Tableau, PyTorch, Keras.
+- **Web:** Express, Next, TS, MongoDB, Postgre, Flask.
 
 ## Currently Learning, Developing, or Managing
 I'm currently diving deeper into Machine Learning System. I manage the Competition and Community in Himpunan Mahasiswa Informatika (HMIF) ITB also setting the problem for Datavidia in Arkavidia 9.0.
