@@ -1,21 +1,17 @@
 # Hi there! 👋 I'm Fathur
 
-Welcome to my GitHub profile! I'm a Data Scientist with a passion for DS/A and Machine Learning. 
+Welcome to my GitHub profile! I'm a Data Scientist with a passion for DS/A and Machine Learning. Currently, I'm Informatics Engineering Sophomore at Institut Teknologi Bandung.
 
 ---
 
 ## Skills
-- **Languages:** Python, Java, SQL, C/C++
-- **Technologies:** Machine Learning, Data Analysis, Software Engineering
-- **Frameworks & Tools:** TensorFlow, Flask, Tableau, PyTorch
+- **Languages:** Python, Java, SQL, C/C++.
+- **Technologies:** Machine Learning, Data Analysis, Software Engineering.
+- **Frameworks & Tools:** TensorFlow, Flask, Tableau, PyTorch.
+- **Web Stacks:** Express, Next, TS.
 
 ## Currently Learning, Developing, or Managing
 I'm currently diving deeper into Machine Learning System. I manage the Competition and Community in Himpunan Mahasiswa Informatika (HMIF) ITB also setting the problem for Datavidia in Arkavidia 9.0.
-
-## Projects and Contributions
-Check out some of my favorite projects below, and feel free to contribute or provide feedback!
-
-- Fish Appetite Detection: This is my first "big" project as a college student.
 
 ## How to Reach Me
 - **Email:** rizkyfathur326@gmail.com
