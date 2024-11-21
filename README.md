@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm a Data Scientist with a passion for DS/A and M
 ---
 
 ## Skills
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fathurwithyou&layout=compact)
 - **Languages:** Python, Java, SQL, C/C++.
 - **Interests:** Machine Learning, DS/A, Software Engineering.
 - **DS/A:** TensorFlow, Tableau, PyTorch, Keras.
