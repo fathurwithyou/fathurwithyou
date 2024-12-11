@@ -1,4 +1,5 @@
 # Hi there! 👋 I'm Fathur
+![](https://komarev.com/ghpvc/?username=fathurwithyou&style=plastic)
 
 Welcome to my GitHub profile! I'm a Data Scientist with a passion for DS/A and Machine Learning. Currently, I'm Informatics Engineering Sophomore at Institut Teknologi Bandung.
 
@@ -24,5 +25,3 @@ I'm currently diving deeper into Machine Learning System. I manage the Competiti
  - **Kaggle:** [kaggle.com/fathurwithyou](https://www.kaggle.com/fathurwithyou)
 
 ---
-
-Thank you for stopping by, and feel free to connect or check out my projects!
