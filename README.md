@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a Data Scientist with a passion for DS/A and M
 - **Web:** Express, Next, TS, MongoDB, Postgre, Flask.
 
 ## Currently Learning, Developing, or Managing
-I'm currently diving deeper into Machine Learning System. I manage the Competition and Community in Himpunan Mahasiswa Informatika (HMIF) ITB also setting the problem for Datavidia in Arkavidia 9.0.
+I'm currently diving deeper into Machine Learning System. I manage the Competition and Community in Himpunan Mahasiswa Informatika (HMIF) ITB also setting the problem for Datavidia in Arkavidia 9.0. Now learning GO for backend services.
 
 ## How to Reach Me
 - **Email:** rizkyfathur326@gmail.com
