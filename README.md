@@ -12,10 +12,7 @@ Welcome to my GitHub profile! I'm a Data Scientist with a passion for DS/A and M
 - **DS/A:** TensorFlow, Tableau, PyTorch, Keras.
 - **Web:** Express, Next, TS, MongoDB, Postgre, Flask, Fiber.
 
-## Currently Learning, Developing, or Managing
-I'm currently diving deeper into Machine Learning System. I manage the Competition and Community in Himpunan Mahasiswa Informatika (HMIF) ITB also setting the problem for Datavidia in Arkavidia 9.0. Now learning GO for backend services.
-
-## How to Reach Me
+## Reach Me
 - **Email:** rizkyfathur326@gmail.com
 - **LinkedIn:** [linkedin.com/in/fathurwithyou](https://www.linkedin.com/in/fathurwithyou/)
 - **Twitter:** [x.com/fathurwithyou](https://x.com/fathurwithyou)
