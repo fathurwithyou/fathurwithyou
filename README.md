@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
+
   <img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2FC++-00599C?style=plastic&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white" />
