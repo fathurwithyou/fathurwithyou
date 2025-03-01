@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Haskell-5D4F85?style=plastic&logo=haskell&logoColor=white" />
   <img src="https://img.shields.io/badge/Prolog-E61B23?style=plastic&logo=prolog&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
 </p>
 
 ### Stacks 
@@ -39,11 +40,12 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Fiber-000000?style=plastic&logo=fiber&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFDD00?style=plastic&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white" />
 </p>
 
 ---
@@ -51,8 +53,8 @@
 ## 📫 Social
 <p align="center">
   <a href="mailto:rizkyfathur326@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/fathurwithyou"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/fathurwithyou"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/fathurwithyou"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
+  <a href="https://x.com/fathurwithyou"><img src="https://img.shields.io/badge/X-%23000000.svg?style=plastic&logo=X&logoColor=white" /></a>
   <a href="https://medium.com/@fathurwithyou"><img src="https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white" /></a>
   <a href="https://www.kaggle.com/fathurwithyou"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white" /></a>
   <a href="https://leetcode.com/fathurwithyou/">
