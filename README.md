@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm a <strong>Data Scientist</strong> with a passion for <strong>DS/A</strong> and <strong>Machine Learning</strong>. <br>
+  Welcome to my GitHub profile! I'm a <strong>AI Engineer</strong> with a passion for <strong>Machine Learning</strong>. <br>
   Currently, I'm an Informatics Engineering Sophomore at <strong>Institut Teknologi Bandung</strong>.  
 </p>
 
