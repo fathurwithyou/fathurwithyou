@@ -6,7 +6,7 @@
 
 <p align="center">
   Welcome to my GitHub profile! I'm a <strong>AI Engineer</strong> with a passion for <strong>Machine Learning</strong>. <br>
-  Currently, I'm an Informatics Engineering Sophomore at <strong>Institut Teknologi Bandung</strong>.  
+  Currently, I'm an Informatics Engineering Sophomore at <strong>Institut Teknologi Bandung</strong>. Now I'm building agentic AI-based system!
 </p>
 
 ---
@@ -48,9 +48,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white" />
 </p>
 
----
-
-## 📫 Social
+### 📫 Social
 <p align="center">
   <a href="mailto:rizkyfathur326@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/fathurwithyou"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
