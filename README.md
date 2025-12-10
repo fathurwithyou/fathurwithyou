@@ -1,14 +1,9 @@
 # Hi, I'm Fathur
 
 I'm currently exploring AI and Machine Learning while studying Informatics Engineering at Institut Teknologi Bandung.  
-Still figuring things out — especially when `import torch` decides to make life interesting 😄  
+Still figuring things out.  
 
 Lately, I've been experimenting with building agentic AI systems using FastAPI and Pydantic to keep things a bit more structured (or at least, that's the goal!).
-
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathurwithyou&layout=compact&hide=jupyter%20notebook&langs_count=10" alt="Top Languages" />
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" />
