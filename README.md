@@ -9,7 +9,7 @@ Still figuring things out, but enjoying the process.
 - [Silberschatz](https://github.com/fathurwithyou/silberschatz) — a mini DBMS project exploring storage, query processing, indexing, concurrency control, and recovery.
 - [Pascal-S Compiler](https://github.com/fathurwithyou/PIA-Tubes-IF2224) — a Pascal-S compiler covering lexical, syntax, and semantic analysis.
 - [Raft Protocol](https://github.com/fathurwithyou/raft-protocol) — an implementation of the Raft consensus algorithm with leader election, log replication, and persistent state.
-- [Indonesia EYD Writing Skill](https://github.com/fathurwithyou/indonesia-eyd-writing-skill) — a practical skill project for Indonesian spelling and formal writing based on EYD.
+- [Indonesia EYD Writing Skill](https://github.com/fathurwithyou/indonesia-eyd-writing-skill) — a practical skill project for Indonesian spelling and formal writing based on EYD. This can be used for your agent.
 
 ## More
 <p>
