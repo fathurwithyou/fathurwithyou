@@ -1,12 +1,18 @@
 # Hi, I'm Fathur
 
-I'm currently exploring AI and Machine Learning while studying Informatics Engineering at Institut Teknologi Bandung.  
-Still figuring things out.  
+I'm currently studying Informatics Engineering at Institut Teknologi Bandung and exploring AI and Machine Learning along the way.  
+Still figuring things out, but enjoying the process.
 
-Lately, I've been experimenting with building agentic AI systems using FastAPI and Pydantic to keep things a bit more structured (or at least, that's the goal!).
+## Top Projects
 
+- [32-bit Kernel OShi-no-Ko](https://github.com/fathurwithyou/32bit-Kernel-Oshi_no_Ko) — a 32-bit educational operating system built from scratch with paging, scheduling, drivers, and EXT2.
+- [Silberschatz](https://github.com/fathurwithyou/silberschatz) — a mini DBMS project exploring storage, query processing, indexing, concurrency control, and recovery.
+- [Pascal-S Compiler](https://github.com/fathurwithyou/PIA-Tubes-IF2224) — a Pascal-S compiler covering lexical, syntax, and semantic analysis.
+- [Raft Protocol](https://github.com/fathurwithyou/raft-protocol) — an implementation of the Raft consensus algorithm with leader election, log replication, and persistent state.
+- [Indonesia EYD Writing Skill](https://github.com/fathurwithyou/indonesia-eyd-writing-skill) — a practical skill project for Indonesian spelling and formal writing based on EYD.
+
+## More
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" />
   <a href="mailto:rizkyfathur326@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/fathurwithyou"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
   <a href="https://x.com/fathurwithyou"><img src="https://img.shields.io/badge/X-%23000000.svg?style=plastic&logo=X&logoColor=white" /></a>
